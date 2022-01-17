@@ -1,2 +1,2 @@
 # pydictionaryclassifier
-A module to create classes and objects out of dictionaries.
+A Python module to create classes and objects out of dictionaries.
