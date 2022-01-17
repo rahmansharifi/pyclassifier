@@ -6,3 +6,4 @@ A Python module to create classes and objects out of dictionaries.
     Variable = dictionary(Dictionary)
     print(Dictionary['b']['c'])
     print(Variable.b.c)
+```
